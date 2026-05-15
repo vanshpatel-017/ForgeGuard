@@ -1,0 +1,5 @@
+hazard:
+  danger_zone_padding: 100
+  hazard_classes:
+  - machinery
+  - vehicle

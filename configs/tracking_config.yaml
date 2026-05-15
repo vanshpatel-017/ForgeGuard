@@ -1,0 +1,4 @@
+tracking:
+  tracker: ByteTrack
+  persist: true
+  confidence_threshold: 0.35

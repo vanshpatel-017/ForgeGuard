@@ -1,0 +1,4 @@
+compliance:
+  helmet_required: true
+  vest_required: true
+  iou_threshold: 0.1

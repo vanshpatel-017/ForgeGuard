@@ -1,0 +1,93 @@
+# ============================================================
+# PYTHON
+# ============================================================
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ============================================================
+# JUPYTER
+# ============================================================
+
+.ipynb_checkpoints/
+
+# ============================================================
+# ENVIRONMENTS
+# ============================================================
+
+venv/
+env/
+ENV/
+
+# ============================================================
+# DATASETS
+# ============================================================
+
+datasets/raw/css-data/train/images/
+datasets/raw/css-data/train/labels/
+
+datasets/raw/css-data/valid/images/
+datasets/raw/css-data/valid/labels/
+
+datasets/raw/css-data/test/images/
+datasets/raw/css-data/test/labels/
+
+datasets/processed/dataset_final/train/images/
+datasets/processed/dataset_final/train/labels/
+
+datasets/processed/dataset_final/valid/images/
+datasets/processed/dataset_final/valid/labels/
+
+datasets/processed/dataset_final/test/images/
+datasets/processed/dataset_final/test/labels/
+
+# ============================================================
+# CACHE FILES
+# ============================================================
+
+*.cache
+
+# ============================================================
+# YOLO / TRAINING RUNS
+# ============================================================
+
+runs/
+
+# ============================================================
+# TEMP FILES
+# ============================================================
+
+*.tmp
+*.log
+
+# ============================================================
+# OS FILES
+# ============================================================
+
+.DS_Store
+Thumbs.db
+
+# ============================================================
+# LARGE GENERATED MEDIA (OPTIONAL)
+# ============================================================
+
+# Uncomment if videos become too large
+
+# videos/output/
+# videos/input/
+
+# ============================================================
+# ALERT ARTIFACTS
+# ============================================================
+
+alerts/
+
+# ============================================================
+# MODEL CHECKPOINTS (OPTIONAL)
+# ============================================================
+
+# Uncomment if needed
+
+# *.pt

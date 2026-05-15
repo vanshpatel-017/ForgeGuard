@@ -1,0 +1,7 @@
+model:
+  name: yolo11m
+  image_size: 960
+  batch_size: 4
+  epochs: 100
+  confidence_threshold: 0.35
+  iou_threshold: 0.5
